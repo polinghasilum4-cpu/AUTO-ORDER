@@ -1,0 +1,17 @@
+{
+  "name": "bot-store",
+  "version": "2.1.0",
+  "main": "auto.js",
+  "scripts": { "start": "node auto.js" },
+  "dependencies": {
+    "node-telegram-bot-api": "^0.64.0",
+    "axios": "^1.6.0",
+    "qrcode": "^1.5.3",
+    "qs": "^6.11.0",
+    "telegram": "^2.19.4",
+    "sharp": "^0.33.0",
+    "archiver": "^7.0.1",
+    "adm-zip": "^0.5.10",
+    "tesseract.js": "^5.0.5"
+  }
+}
