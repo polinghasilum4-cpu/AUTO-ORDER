@@ -1,0 +1,50 @@
+{
+  "payment_gateway": "manual",
+  "required_joins": [
+    {
+      "type": "ch",
+      "username": "alexinfosaja",
+      "name": "Info Order DLL"
+    },
+    {
+      "type": "group",
+      "username": "publicbyalex1",
+      "name": "Room Public"
+    }
+  ],
+  "reseller_enabled": true,
+  "admin_enabled": true,
+  "reseller_link": "https://t.me/+2n9m-pt5TxljOGM1",
+  "maintenance": false,
+  "qris_manual_file_id": "AgACAgUAAxkBAAICz2n-v1623BsLUb_aleCDKekwu0N-AAIDFGsbUUbwV3QTWr_zvDPYAQADAgADeAADOwQ",
+  "qris_manual_caption": null,
+  "harga_unli_30hari": 2000,
+  "harga_10gb_30hari": 1000,
+  "harga_9gb_30hari": 1000,
+  "_panels": [
+    {
+      "uuid": "981aa2cf-e5d0-4a1f-9dfe-212d9f27c3fc",
+      "name": "Alex Server",
+      "domain": "https://alexprivatepanel.onlinepanel.my.id",
+      "owner_id": "8793486457",
+      "owner_username": "AlexSTR10",
+      "ptero_username": "alex",
+      "ptero_email": "alex@hekaly.com",
+      "plan_key": "unli",
+      "expiry_ms": 1780895037468,
+      "created_at": 1778303037468
+    },
+    {
+      "uuid": "8b3ba71c-b25b-48b0-8e64-2782e8afa5d3",
+      "name": "Sakhinasail Server",
+      "domain": "https://alexprivatepanel.onlinepanel.my.id",
+      "owner_id": "8283587042",
+      "owner_username": "Sakhi_Store",
+      "ptero_username": "sakhinasail",
+      "ptero_email": "sakhinasail@hekaly.com",
+      "plan_key": "unli",
+      "expiry_ms": 1780895927483,
+      "created_at": 1778303927483
+    }
+  ]
+}

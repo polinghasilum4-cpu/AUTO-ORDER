@@ -1,0 +1,24 @@
+[
+  {
+    "name": "SERVER 1 (JavaScript)",
+    "domain": "https://privatepanelalex.duckdns.top",
+    "api_key": "ptla_RZ6MoiZEZGeEkud9Z5EgEgKXyyki5caqErKF85oDqG9",
+    "client_key": "ptlc_horjgj7XZhIpgnc4I6u41v0mxcqJClD0iNAepBCkjZ3",
+    "location_id": 1,
+    "nest_id": 5,
+    "egg_id": 15,
+    "priority": 0,
+    "id": 1778205652995
+  },
+  {
+    "name": "SERVER 2 (JavaScript)",
+    "domain": "https://alexprivatepanel.onlinepanel.my.id",
+    "api_key": "ptla_rVJnA9blYOd9pThxZjBbFlPg8TrKtowCOVLpWBEYc2k",
+    "client_key": "ptlc_EYwPpxWiMsqMQLxkJVxJf2W2Pk5kRi9pD1RI2NL3mL5",
+    "location_id": 1,
+    "nest_id": 5,
+    "egg_id": 15,
+    "priority": 0,
+    "id": 1778302044018
+  }
+]
